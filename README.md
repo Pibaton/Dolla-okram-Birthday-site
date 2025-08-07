@@ -19,7 +19,7 @@
       position: relative;
     }
 
-    /* Background emoji decorations */
+    /* Background floating emojis */
     .emoji-bg {
       position: absolute;
       font-size: 4rem;
@@ -75,10 +75,19 @@
       line-height: 1.6em;
     }
 
-    .redirect-msg {
-      margin-top: 30px;
-      font-size: 1em;
-      color: #ffc107;
+    .redirect-icon {
+      margin-top: 25px;
+    }
+
+    .redirect-icon a {
+      color: #fff;
+      font-size: 2.5rem;
+      text-decoration: none;
+      transition: transform 0.3s;
+    }
+
+    .redirect-icon a:hover {
+      transform: scale(1.2);
     }
 
     @keyframes fadeIn {
@@ -101,7 +110,7 @@
   <div class="emoji-bg">🎂</div>
 
   <div class="card">
-    <h1>🎂 Happy Birthday <b>Dolla Okram@Deviya</b> 🎉</h1>
+    <h1>🎂 Happy Birthday <b>Dola Okram@Deviya</b> 🎉</h1>
     <p><b> August 08, 2006</b></p>
     <p>Wishing you the best today!</p>
     <p>Even though we're far apart, you deserve a <b>great birthday</b>.</p>
@@ -109,15 +118,39 @@
     <p>You deserve every bit of joy the world has to offer.</p>
     <p>You gave me something priceless on my birthday.<br> I’m returning the love your way.</p>
     <p><b>Multiplied with happiness and warmth 💙</b></p>
-    <p><b>Have a fantastic day, Dolla Okram @Deviya!</b></p>
-    <p class="redirect-msg">🔁 Redirecting you to a little surprise…</p>
+    <p><b>Have a fantastic day, Dolla Okram@Deviya!</b></p>
+
+    <div class="redirect-icon">
+      <a href="https://instagram.com/dola.chanu" target="_blank" title="Go to Instagram">
+        📷
+      </a>
+    </div>
   </div>
 
+  <!-- Confetti script -->
+  <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
   <script>
-    // Redirect to Instagram after 7 seconds
-    setTimeout(function() {
-      window.location.href = "https://instagram.com/dola.chanu";
-    }, 7000);
+    const duration = 6 * 1000;
+    const end = Date.now() + duration;
+
+    (function frame() {
+      confetti({
+        particleCount: 4,
+        angle: 60,
+        spread: 55,
+        origin: { x: 0 }
+      });
+      confetti({
+        particleCount: 4,
+        angle: 120,
+        spread: 55,
+        origin: { x: 1 }
+      });
+
+      if (Date.now() < end) {
+        requestAnimationFrame(frame);
+      }
+    })();
   </script>
 
 </body>
