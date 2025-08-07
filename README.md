@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Happy Birthday Deviya 🎉</title>
+  <title>Happy Birthday Deviya Okram 🎉</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
     body {
@@ -63,22 +63,22 @@
 <body>
 
   <div class="card">
-    <h1>🎂 Happy Birthday <b>Deviya Okram</b> 🎉</h1>
-    <p>@dolla.chanu — <b>born on August 08, 2006</b></p>
+    <h1>🎂 Happy Birthday <b>Deviya Okram@Deviya</b> 🎉</h1>
+     <h1>August 08, 2006</b> <b>celebrating another amazing year</p>
     <p><b>Wishing you the best today!</b></p>
     <p>Even though we're far apart, you deserve a <b>great birthday</b>.</p>
     <p>May your day be filled with <b>laughter, sweet surprises</b>, and beautiful moments.</p>
     <p><b>You deserve every bit of joy the world has to offer.</b></p>
     <p>You gave me something priceless on my birthday.<br> I’m returning the love your way.</p>
     <p><b>Multiplied with happiness and warmth. 💙</b></p>
-    <p><b>Have a fantastic day, Dolla Okram @dolla.chanu!</b></p>
+    <p><b>Have a fantastic day, Dolla Okram@Deviya
     <p class="redirect-msg">🔁 Redirecting you to a surprise...</p>
   </div>
 
   <script>
     // Optional: Redirect to Instagram or any surprise page after 7 seconds
     setTimeout(function() {
-      window.location.href = "https://www.instagram.com/deviya"; // <-- Change this link if needed
+      window.location.href = "https://www.instagram.com/dola.chanu"; // <-- Change this link if needed
     }, 7000);
   </script>
 
