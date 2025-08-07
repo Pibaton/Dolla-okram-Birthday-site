@@ -101,15 +101,15 @@
   <div class="emoji-bg">🎂</div>
 
   <div class="card">
-    <h1>🎂 Happy Birthday <b>Deviya Okram</b> 🎉</h1>
-    <p><b>@Deviya — born on August 08, 2006</b></p>
+    <h1>🎂 Happy Birthday <b>Deviya Okram@Deviya</b> 🎉</h1>
+    <p><b> August 08 </b></p>
     <p>Wishing you the best today!</p>
     <p>Even though we're far apart, you deserve a <b>great birthday</b>.</p>
     <p>May your day be filled with <b>laughter, sweet surprises</b>, and beautiful moments.</p>
     <p>You deserve every bit of joy the world has to offer.</p>
     <p>You gave me something priceless on my birthday.<br> I’m returning the love your way.</p>
     <p><b>Multiplied with happiness and warmth 💙</b></p>
-    <p><b>Have a fantastic day, Dolla Okram @Deviya!</b></p>
+    <p><b>Have a fantastic day, Dolla Okram@Deviya!</b></p>
 
     <div class="redirect-icon">
       <a href="https://instagram.com/dola.chanu" target="_blank">B’Day User ID</a>
