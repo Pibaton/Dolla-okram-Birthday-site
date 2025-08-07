@@ -64,14 +64,14 @@
 
   <div class="card">
     <h1>🎂 Happy Birthday <b>Deviya Okram</b> 🎉</h1>
-    <p>@Deviya — <b>born on August 08, 2006</b></p>
+    <p>@dolla.chanu — <b>born on August 08, 2006</b></p>
     <p><b>Wishing you the best today!</b></p>
     <p>Even though we're far apart, you deserve a <b>great birthday</b>.</p>
     <p>May your day be filled with <b>laughter, sweet surprises</b>, and beautiful moments.</p>
     <p><b>You deserve every bit of joy the world has to offer.</b></p>
     <p>You gave me something priceless on my birthday.<br> I’m returning the love your way.</p>
     <p><b>Multiplied with happiness and warmth. 💙</b></p>
-    <p><b>Have a fantastic day, Dolla Okram @Deviya!</b></p>
+    <p><b>Have a fantastic day, Dolla Okram @dolla.chanu!</b></p>
     <p class="redirect-msg">🔁 Redirecting you to a surprise...</p>
   </div>
 
