@@ -122,7 +122,7 @@
 
     <div class="redirect-icon">
       <a href="https://instagram.com/dola.chanu" target="_blank" title="Go to Instagram">
-        📷
+        BDAY User ID
       </a>
     </div>
   </div>
