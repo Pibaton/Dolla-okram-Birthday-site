@@ -64,8 +64,8 @@
 
   <div class="card">
     <h1>🎂 Happy Birthday <b>Deviya Okram@Deviya</b> 🎉</h1>
-     <h1>August 08, 2006</b> <b>celebrating another amazing year</p>
-    <p><b>Wishing you the best today!</b></p>
+     <b>August 08, 2006</b> <b>celebrating another amazing year</p>
+    <p>Wishing you the best today!</b></p>
     <p>Even though we're far apart, you deserve a <b>great birthday</b>.</p>
     <p>May your day be filled with <b>laughter, sweet surprises</b>, and beautiful moments.</p>
     <p><b>You deserve every bit of joy the world has to offer.</b></p>
