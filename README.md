@@ -18,6 +18,6 @@
 </h2>
 
 <a href="https://github.com/Deviya" style="background:#004488; color:#ffee00; font-weight:bold; padding:0.8em 2em; margin-top:1.5em; border-radius:0.7em; font-size:1.2em; text-decoration:none; display:inline-block;">
-  Visit Deviya's Profile
+  Click Now
 </a>
 </div>
